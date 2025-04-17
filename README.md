@@ -24,3 +24,7 @@ OpenAI GPT的复现，基于Transformer。
 !pip install datasets
 
 pip install trl==0.11.3
+
+# RLHF中分析调优报告
+
+https://blog.csdn.net/xm415/article/details/147245100
