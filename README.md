@@ -14,16 +14,16 @@ OpenAI GPT的复现，基于Transformer。
 
 地址：https://colab.research.google.com/
 
+## 特殊依赖安装
+
+除上述运行环境中基础依赖之外，注意这个包的特殊版本依赖，不然存在兼容性问题。
+
+pip install trl==0.11.3
+
 # GPT源码学习记录
 拆解Transformer中GPT的源码学习。
 
 源码学习记录：https://blog.csdn.net/xm415/category_12891845.html
-
-# 依赖安装
-
-!pip install datasets
-
-pip install trl==0.11.3
 
 # RLHF中分析调优报告
 
